@@ -3,12 +3,12 @@ import AppBar from '@material-ui/core/AppBar'
 import Toolbar from '@material-ui/core/Toolbar'
 import Typography from '@material-ui/core/Typography'
 
-const Booth = () => {
+const Route = () => {
     return (
         <div>
-            Booth  <input type="number" name="booth" />
+            Route  <input type="number" name="route" />
         </div>
     )
 }
 
-export default Booth;
+export default Route;
